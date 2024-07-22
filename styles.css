@@ -1,0 +1,26 @@
+body {
+    background-color: #abc3dc;
+}
+
+
+#weather {
+    background: #1dba73;
+    padding: 20px;
+    p.mix {border-style: dotted dashed solid double;}
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(112, 47, 47, 0.1);
+    background-size: 100px 80px;
+    background-repeat: no-repeat;
+}
+.h1 {
+    font-family: "Courier New", Courier, monospace;
+  }
+
+.weather-info {
+    margin-top: 15px;
+    
+}
+
+.weather-info p {
+    margin: 12px;
+}
